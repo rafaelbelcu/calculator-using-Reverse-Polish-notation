@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(18,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(26,67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(37,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(41,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(50,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(54,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(63,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(67,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(150,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(605,22): warning C4584: 'Input': base-class 'Evaluate' is already a base-class of 'Stack'
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(11): message : see declaration of 'Evaluate'
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(368): message : see declaration of 'Stack'
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(800,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Source.cpp(153): warning C4715: 'Evaluate::EvaluateOperator': not all control paths return a value
+  BelcuRafaelStefan_AS_Phase2.vcxproj -> C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\x64\Debug\BelcuRafaelStefan_AS_Phase2.exe

@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(5468,5): warning MSB3061: Unable to delete file "C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Debug\BelcuRafaelStefan_AS_Phase2.exe". Access to the path 'C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Debug\BelcuRafaelStefan_AS_Phase2.exe' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\user\desktop\belcurafaelstefan_as_phase2\debug\belcurafaelstefan_as_phase2.exe' is denied.
+  Source.cpp
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(18,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(26,67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(37,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(41,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(50,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(54,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(63,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(67,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(150,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(325,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(335,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(337,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(533,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(562,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(614,22): warning C4584: 'Input': base-class 'Evaluate' is already a base-class of 'Stack'
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(11): message : see declaration of 'Evaluate'
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(366): message : see declaration of 'Stack'
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(736,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(746,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(760,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(771,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Classes.h(153): warning C4715: 'Evaluate::EvaluateOperator': not all control paths return a value
+LINK : fatal error LNK1104: cannot open file 'C:\Users\User\Desktop\BelcuRafaelStefan_AS_Phase2\Debug\BelcuRafaelStefan_AS_Phase2.exe'
